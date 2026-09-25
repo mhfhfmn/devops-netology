@@ -30,4 +30,5 @@
 Будет проигнорирован файл terraform.rc: terraform.rc
 
 add new string
+
 new string in IDE Visual Studio Code
