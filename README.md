@@ -28,3 +28,5 @@
 Будет проигнорирован файл .terraformrc: .terraformrc
 
 Будет проигнорирован файл terraform.rc: terraform.rc
+
+add new string
